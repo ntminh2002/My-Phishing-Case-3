@@ -140,7 +140,7 @@ Modify the action you want to perform on the victim’s account.In this case, I 
 
 
 ## VII. Conclusion
-During the deployment process, I faced many challenges, and things only started to improve when I reached out for help from my team (thank you, Lee Nguyen and hieudm25).
+During the deployment process, I faced many challenges, and things only started to improve when I reached out for help from my team (thank for Lee Nguyen, hieudm25 and TI VCS team).
 
 This was a tough case from the target to the requirements but in the end, the campaign was still successful.
 
